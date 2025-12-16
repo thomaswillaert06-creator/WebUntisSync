@@ -744,8 +744,8 @@ UID:1246515-20260114-900@webuntis-sync
 DESCRIPTION:Dams / De Pooter / Van Camp / Verhulst\n1IT1a / 1IT1b / 1IT2a 
  / 1IT2b / 1IT3a / 1IT3b / 1IT4a / 1IT4b / 1IT5a / 1IT5b / 1IT6a / 1IT6b\n-
  -------------------\nℹ️ Digitaal kennis
-LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
- 4) Aula
+LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
+  01.08_3.ELL (144) Auditorium 3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Programming principles
@@ -755,8 +755,8 @@ UID:1246524-20260114-1100@webuntis-sync
 DESCRIPTION:Dams / De Pooter / Van Camp / Verhulst\n1IT1a / 1IT1b / 1IT2a 
  / 1IT2b / 1IT3a / 1IT3b / 1IT4a / 1IT4b / 1IT5a / 1IT5b / 1IT6a / 1IT6b\n-
  -------------------\nℹ️ Digitaal vaardigheid
-LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
- 4) Aula
+LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
+  01.08_3.ELL (144) Auditorium 3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Linux
@@ -766,8 +766,8 @@ UID:1246368-20260116-900@webuntis-sync
 DESCRIPTION:De Magtige / Manderyck / Mariën / Van Battel\n1IT1a / 1IT1b /
   1IT2a / 1IT2b / 1IT3a / 1IT3b / 1IT4a / 1IT4b / 1IT5a / 1IT5b\n----------
  ----------\nℹ️ Digitaal kennis
-LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
- 4) Aula
+LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
+  01.08_3.ELL (144) Auditorium 3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Linux
@@ -777,8 +777,8 @@ UID:1246377-20260116-1100@webuntis-sync
 DESCRIPTION:De Magtige / Manderyck / Mariën / Van Battel\n1IT1a / 1IT1b /
   1IT2a / 1IT2b / 1IT3a / 1IT3b / 1IT4a / 1IT4b / 1IT5a / 1IT5b\n----------
  ----------\nℹ️ Digitaal vaardigheid
-LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
- 4) Aula
+LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
+  01.08_3.ELL (144) Auditorium 3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Data networks
@@ -788,8 +788,8 @@ UID:1242524-20260120-900@webuntis-sync
 DESCRIPTION:De Vos / Horsmans / Van Merode / Verhulst\n1IT1a / 1IT1b / 1IT
  2a / 1IT2b / 1IT3a / 1IT3b / 1IT4a / 1IT4b / 1IT5a / 1IT5b / 1IT6a / 1IT6b
  \n--------------------\nℹ️ Digitaal kennis
-LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
- 4) Aula
+LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
+  01.08_3.ELL (144) Auditorium 3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Data networks
@@ -799,8 +799,8 @@ UID:1242518-20260120-1100@webuntis-sync
 DESCRIPTION:De Vos / Horsmans / Van Merode / Verhulst\n1IT1a / 1IT1b / 1IT
  2a / 1IT2b / 1IT3a / 1IT3b / 1IT4a / 1IT4b / 1IT5a / 1IT5b / 1IT6a / 1IT6b
  \n--------------------\nℹ️ Digitaal vaardigheid
-LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
- 4) Aula
+LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
+  01.08_3.ELL (144) Auditorium 3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Digital fundamentals
@@ -810,8 +810,8 @@ UID:1246044-20260122-900@webuntis-sync
 DESCRIPTION:Horsmans / Michiels / Van Loo / Van Merode\n1IT1a / 1IT1b / 1I
  T2a / 1IT2b / 1IT3a / 1IT3b / 1IT4a / 1IT4b / 1IT5a / 1IT5b / 1IT6a / 1IT6
  b\n--------------------\nℹ️ Digitaal kennis
-LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
- 4) Aula
+LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
+  01.08_3.ELL (144) Auditorium 3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Digital fundamentals
@@ -821,8 +821,8 @@ UID:1246062-20260122-1200@webuntis-sync
 DESCRIPTION:Horsmans / Michiels / Van Loo / Van Merode\n1IT1a / 1IT1b / 1I
  T2a / 1IT2b / 1IT3a / 1IT3b / 1IT4a / 1IT4b / 1IT5a / 1IT5b / 1IT6a / 1IT6
  b\n--------------------\nℹ️ Digitaal vaardigheid
-LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
- 4) Aula
+LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
+  01.08_3.ELL (144) Auditorium 3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Inzagerecht_dag
